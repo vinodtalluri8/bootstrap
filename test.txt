@@ -8,7 +8,7 @@
   <mat-menu #menu="matMenu">
     <button mat-menu-item>
       <mat-icon>dialpad</mat-icon>
-      <p>Mfs Reporting</p>
+      <span>Mfs Reporting</span>
     </button>
     <button mat-menu-item>
       <mat-icon>notifications_off</mat-icon>
